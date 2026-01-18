@@ -1,0 +1,60 @@
+{
+    "recipients": {
+        "5021155639": {
+            "code": "W0PK5X",
+            "username": "fenixkeeper",
+            "first_name": "Maxim",
+            "messages": [
+                "fc48f0d33536c596"
+            ]
+        }
+    },
+    "messages": {
+        "fc48f0d33536c596": {
+            "from_user_id": 8148288553,
+            "from_username": "Haketon_1",
+            "from_first_name": "Тот самый мессенджер",
+            "to_user_id": 5021155639,
+            "content_type": "text",
+            "content": {
+                "message_id": 29,
+                "date": 1764962866,
+                "chat": {
+                    "id": 8148288553,
+                    "type": "private",
+                    "username": "Haketon_1",
+                    "first_name": "Тот самый мессенджер"
+                },
+                "from_user": {
+                    "id": 8148288553,
+                    "is_bot": false,
+                    "first_name": "Тот самый мессенджер",
+                    "username": "Haketon_1",
+                    "language_code": "ru"
+                },
+                "text": "Хочу признаться… ты кутой"
+            },
+            "revealed": true,
+            "sent_at": "2025-12-05T19:27:50.925872",
+            "msg_id": "fc48f0d33536c596",
+            "tg_message_id": 30
+        }
+    },
+    "users": {
+        "5021155639": {
+            "is_admin": false,
+            "is_super_admin": false,
+            "blocked_bot": false,
+            "username": "fenixkeeper",
+            "first_name": "Maxim"
+        },
+        "8148288553": {
+            "is_admin": false,
+            "is_super_admin": false,
+            "blocked_bot": false,
+            "username": "Haketon_1",
+            "first_name": "Тот самый мессенджер"
+        }
+    },
+    "required_channels": {}
+}
